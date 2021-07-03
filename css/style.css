@@ -1,0 +1,17 @@
+div {
+    
+    background-color: darkblue;
+    border: 2px solid yellow;
+    border-radius: 30px;
+    padding: 10px;
+}
+h1{
+    font-style: italic;
+}
+body{
+    background-color: violet;
+}
+p{
+    font-style: normal;
+    text-align: justify;
+}
